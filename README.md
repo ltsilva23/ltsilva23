@@ -1,16 +1,18 @@
-### Hi there 👋
+# Olá!
 
-<!--
-**ltsilva23/ltsilva23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Larissa Thalia Santos da Silva, estou cursando Analise e desenvolvimento de Sistemas na Universidade Católica do Salvador.
 
-Here are some ideas to get you started:
+Eu sou apaixonada por resolver problemas e aprender. Sempre aberta aos novos desafios e pronta para enfrentar mudanças.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### "Quanto mais eu sei, mais eu sou"
+
+
+# Meu Robocode
+
+Meu robocode tem a função de procurar o adversário que tenha uma quantidade menor de energia e atacar até que o mesmo seja eliminado. Contudo se o meu robô for atingindo por um tiro, colidir com uma parede ou até mesmo com o  adversário, será calculado uma distância para que o mesmo se retire do local pra que sua energia não diminua e  não seja eliminado.
+
+# Aprendizado 
+ 
+Adorei a aprender a construir um código que através dele um robô pudesse se mover , atirar e realizar outras funcionalidades. Sei que existem outras coisas que o robô possa realizar , mais com a dedicação e vontade de aprender posso estar evoluindo cada vez mais e mais . 
+Contudo fiquei apaixonada e viciada em realizar mais funções para que o meu código enriqueça, com isso através de pesquisas foi importante para identificar o significado de cada método sobre o comportamento do robô.  
+
