@@ -13,6 +13,7 @@ Meu robocode tem a função de procurar o adversário que tenha uma quantidade m
 
 # Aprendizado 
  
-Adorei a aprender a construir um código que através dele um robô pudesse se mover , atirar e realizar outras funcionalidades. Sei que existem outras coisas que o robô possa realizar , mais com a dedicação e vontade de aprender posso estar evoluindo cada vez mais e mais . 
+Adorei a aprender a construir um código que através dele um robô pudesse se mover , atirar e realizar outras funcionalidades. Sei que existem outras coisas que o robô possa realizar , mais com a dedicação e vontade de aprender posso estar evoluindo cada vez mais . 
 Contudo fiquei apaixonada e viciada em realizar mais funções para que o meu código enriqueça, com isso através de pesquisas foi importante para identificar o significado de cada método sobre o comportamento do robô.  
+
 
