@@ -1,6 +1,6 @@
 # Olá!
 
-Meu nome é Larissa Thalia Santos da Silva, estou cursando Analise e desenvolvimento de Sistemas na Universidade Católica do Salvador.
+Meu nome é Larissa Thalia Santos da Silva, estou cursando Analise e Desenvolvimento de Sistemas na Universidade Católica do Salvador.
 
 Eu sou apaixonada por resolver problemas e aprender. Sempre aberta aos novos desafios e pronta para enfrentar mudanças.
 
