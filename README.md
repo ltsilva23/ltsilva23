@@ -1,19 +1,67 @@
-# Olá!
+# Olá! Eu sou a Lari.👋
 
-Meu nome é Larissa Thalia Santos da Silva, estou cursando Analise e Desenvolvimento de Sistemas na Universidade Católica do Salvador.
+## Seja bem vindo ao meu perfil.
 
-Eu sou apaixonada por resolver problemas e aprender. Sempre aberta aos novos desafios e pronta para enfrentar mudanças.
+#### Meu chamo Larissa Thalia e estou entusiasmada em compartilhar um pouco sobre minha jornada na área de tecnologia e programação. Me encontro em um período de transição de carreira para a área de desenvolvimento, motivada pelo desejo de me manter alinhada com os avanços tecnológicos mais recentes. Estou constantemente buscando oportunidades para aprender e crescer profissionalmente, sempre atenta às tendências emergentes no mundo da tecnologia.
 
-#### "Quanto mais eu sei, mais eu sou"
+#### Sou formada em Analise e Desenvolvimento de Sistemas e atualmente estou cursando Pós em engenharia de Software.
+
+## Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/larissa-silva-93452911b/) [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge&logo=&logoColor=0E76A8)](https://web.dio.me/users/ltsilva) [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/l.thalia20/)
+
+## Conhecimentos
+
+<table>
+  <thead>
+    <tr align="left">
+      <th>Tecnologias</th>
+      <th>Nivel</th>
+    </tr>
+  </thead>
+  <tbody align="left">
+    <tr>
+      <td>
+        <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5">
+      </td>
+      <td>
+        <code>Básico</code>
+      </td>
+    </tr>
+       <tr>
+      <td>
+        <img align="center" alt="Java" src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java">
+      </td>
+      <td>
+        <code>Básico</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" alt="Python" src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python">
+      </td>
+      <td>
+        <code>Básico</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" alt="C" src="https://img.shields.io/badge/C-000?style=for-the-badge&logo=c">
+      </td>
+      <td>
+        <code>Básico</code>
+      </td>
+    </tr>
+  </tbody>
+  <tfoot></tfoot>
+</table>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ltsilva23&theme=bear&background=000&border=30A3DC&dates=FFF)](https://github.com/ltsilva23)
 
 
-# Meu Robocode
 
-Meu robocode tem a função de procurar o adversário que tenha uma quantidade menor de energia e atacar até que o mesmo seja eliminado. Contudo se o meu robô for atingindo por um tiro, colidir com uma parede ou até mesmo com o  adversário, será calculado uma distância para que o mesmo se retire do local pra que sua energia não diminua e  não seja eliminado.
+## Minhas Contribuições
 
-# Aprendizado 
- 
-Adorei a aprender a construir um código que através dele um robô pudesse se mover , atirar e realizar outras funcionalidades. Sei que existem outras coisas que o robô possa realizar , mais com a dedicação e vontade de aprender posso estar evoluindo cada vez mais . 
-Contudo fiquei apaixonada e viciada em realizar mais funções para que o meu código enriqueça, com isso através de pesquisas foi importante para identificar o significado de cada método sobre o comportamento do robô.  
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ltsilva23&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ltsilva23/dio-lab-open-source)
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ltsilva23&repo=CursoJogos&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ltsilva23/CursoJogos)
 
