@@ -65,3 +65,4 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ltsilva23&repo=CursoJogos&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ltsilva23/CursoJogos)
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ltsilva23&repo=avi-mobile-helpsystem&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ucsal/avi-mobile-helpsystem/tree/07df02379cf3bbbf9ee9d1e7df008c78a592661d)
