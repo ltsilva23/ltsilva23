@@ -4,7 +4,7 @@
 
 #### Meu chamo Larissa Thalia e estou entusiasmada em compartilhar um pouco sobre minha jornada na área de tecnologia e programação. Me encontro em um período de transição de carreira para a área de desenvolvimento, motivada pelo desejo de me manter alinhada com os avanços tecnológicos mais recentes. Estou constantemente buscando oportunidades para aprender e crescer profissionalmente, sempre atenta às tendências emergentes no mundo da tecnologia.
 
-#### Sou formada em Analise e Desenvolvimento de Sistemas e atualmente estou cursando Pós em engenharia de Software.
+#### Sou pós-graduada em Engenharia de Software com primeira formação em Análise e Desenvolvimento de Sistemas e atuação em suporte técnico.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/larissa-silva-93452911b/) [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge&logo=&logoColor=0E76A8)](https://web.dio.me/users/ltsilva) [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/l.thalia20/)
